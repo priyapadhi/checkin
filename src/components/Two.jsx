@@ -19,7 +19,7 @@ class App extends Component {
        <h3>Two</h3>
       <SpatialNavigation>      
     <div className="row">
-     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-6">
         <div className='imagedivtwo'>
             <Focusable >
       <ModalImage
@@ -30,7 +30,7 @@ class App extends Component {
     </Focusable>
          </div>
         </div>
-     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-6">
          <div className='imagedivtwo'>
             <Focusable >
       <ModalImage
@@ -41,7 +41,7 @@ class App extends Component {
     </Focusable>
          </div>
         </div>
-     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-6">
          <div className='imagedivtwo'>
             <Focusable >
       <ModalImage
@@ -52,7 +52,7 @@ class App extends Component {
     </Focusable>
          </div>
         </div>
-     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-6">
          <div className='imagedivtwo'>
             <Focusable >
       <ModalImage
@@ -63,7 +63,7 @@ class App extends Component {
     </Focusable>
          </div>
         </div>
-     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-6">
          <div className='imagedivtwo'>
              <Focusable >
       <ModalImage
@@ -74,7 +74,7 @@ class App extends Component {
     </Focusable>
          </div>
         </div>
-     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-6">
          <div className='imagedivtwo'>
             <Focusable >
       <ModalImage
@@ -85,7 +85,7 @@ class App extends Component {
     </Focusable>
          </div>
         </div>  
-     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-6">
          <div className='imagedivtwo'>
              <Focusable >
       <ModalImage
@@ -96,7 +96,7 @@ class App extends Component {
     </Focusable>
          </div>
         </div>
-     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+     <div className="col-lg-3 col-md-3 col-sm-3 col-xs-6">
         <div className='imagedivtwo'>
             <Focusable >
       <ModalImage
